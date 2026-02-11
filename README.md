@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mohammad Mosharib</h1>
 
-<!--
-**mosharib-dev/mosharib-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+BTech CSE (AI) | Java & DSA | Full-Stack Developer | Cybersecurity Intern @ CDAC Noida
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Pre-final year Computer Science (AI) undergraduate
+- Strong foundation in Data Structures & Algorithms (Java)
+- Full-Stack Developer with hands-on MERN experience
+- Working on cybersecurity use cases and network monitoring tools at CDAC Noida
+
+---
+
+## Technical Skills
+
+**Languages:** Java, C++, JavaScript  
+**Frontend:** React.js, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub  
+
+---
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosharib-dev&show_icons=true)
+
