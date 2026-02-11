@@ -25,5 +25,6 @@ BTech CSE (AI) | Java & DSA | Full-Stack Developer | Cybersecurity Intern @ CDAC
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosharib-dev&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mosharib-dev&show_icons=true&theme=tokyonight)
+
 
